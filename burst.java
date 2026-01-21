@@ -1,3 +1,2 @@
-java has else, if else, void main, class, syntax
-nodejs is different
-npm needed to be install
+java has else, if else, void main, class
+nodejs has been installed
